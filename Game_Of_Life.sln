@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game_Of_Life", "Game_Of_Life\Game_Of_Life\Game_Of_Life.csproj", "{6930C1F4-7526-4D5C-B30A-661716BD21E6}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "Game_Of_LifeContent", "Game_Of_Life\Game_Of_LifeContent\Game_Of_LifeContent.contentproj", "{E97D65DB-7927-4043-A573-B52B50E5D683}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6930C1F4-7526-4D5C-B30A-661716BD21E6}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{6930C1F4-7526-4D5C-B30A-661716BD21E6}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{6930C1F4-7526-4D5C-B30A-661716BD21E6}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{6930C1F4-7526-4D5C-B30A-661716BD21E6}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{6930C1F4-7526-4D5C-B30A-661716BD21E6}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{6930C1F4-7526-4D5C-B30A-661716BD21E6}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{E97D65DB-7927-4043-A573-B52B50E5D683}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{E97D65DB-7927-4043-A573-B52B50E5D683}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
